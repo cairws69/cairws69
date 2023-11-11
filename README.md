@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">Linguagens que estou estudando:<br>Javascript<br>Python</h6>
+<h5 align="left">📄 ADS - FATEC Indaiatuba<br>🚀 I'm currently learning: Javascript, Python</h5>
 
 ###
 
@@ -17,6 +17,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cairws69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cairws69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/cairws69/cairws69/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -35,5 +46,9 @@
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/ouHq1rdC3RIAAAAC/guts-berserk.gif"  />
+
+###
+
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-975.gif"  />
 
 ###
