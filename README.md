@@ -27,10 +27,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cairws69/cairws69/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/cairws/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -45,10 +41,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/ouHq1rdC3RIAAAAC/guts-berserk.gif"  />
+<img align="right" height="158" src="https://media.tenor.com/ouHq1rdC3RIAAAAC/guts-berserk.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-975.gif"  />
+<img align="left" height="141" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-975.gif"  />
 
 ###
