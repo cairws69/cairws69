@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">📄 ADS - FATEC Indaiatuba<br>🚀 I'm currently learning: Javascript, Python</h5>
+<h5 align="left">📄 ADS - FATEC Indaiatuba<br>🚀 I'm currently learning: Python</h5>
 
 ###
 
